@@ -1,0 +1,1 @@
+{"allowImportingTsExtensions":true,"compilerOptions":{"module":"nodenext","noUncheckedIndexedAccess":true,"strict":true,"target":"es2022"},"include":["src","tests","client"]}
